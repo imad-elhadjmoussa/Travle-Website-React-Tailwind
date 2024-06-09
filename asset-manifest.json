@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Travle-Website-React-Tailwind/static/css/main.340456d2.css",
+    "main.js": "/Travle-Website-React-Tailwind/static/js/main.5922c751.js",
+    "static/js/453.9b81a340.chunk.js": "/Travle-Website-React-Tailwind/static/js/453.9b81a340.chunk.js",
+    "static/media/2.jpg": "/Travle-Website-React-Tailwind/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/Travle-Website-React-Tailwind/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/12.jpg": "/Travle-Website-React-Tailwind/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/8.jpg": "/Travle-Website-React-Tailwind/static/media/8.9d1ddd2ceb0e8def6f48.jpg",
+    "static/media/5.jpg": "/Travle-Website-React-Tailwind/static/media/5.46b372902997b3fbd648.jpg",
+    "static/media/6.jpg": "/Travle-Website-React-Tailwind/static/media/6.c405c8228d51cdef5d0f.jpg",
+    "static/media/night.jpg": "/Travle-Website-React-Tailwind/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/Travle-Website-React-Tailwind/index.html",
+    "main.340456d2.css.map": "/Travle-Website-React-Tailwind/static/css/main.340456d2.css.map",
+    "main.5922c751.js.map": "/Travle-Website-React-Tailwind/static/js/main.5922c751.js.map",
+    "453.9b81a340.chunk.js.map": "/Travle-Website-React-Tailwind/static/js/453.9b81a340.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.340456d2.css",
+    "static/js/main.5922c751.js"
+  ]
+}
